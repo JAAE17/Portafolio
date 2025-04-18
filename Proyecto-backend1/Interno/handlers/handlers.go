@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	models "github.com/Anton17303/Laboratorio-6/Interno/Modelo"
-	"github.com/Anton17303/Laboratorio-6/Interno/database"
+	models "github.com/JAAE17/Proyecto-backend1/Interno/Modelo"
+	"github.com/JAAE17/Proyecto-backend1/Interno/database"
 	"github.com/gin-gonic/gin"
 )
 

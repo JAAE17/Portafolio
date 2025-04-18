@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/Anton17303/Laboratorio-6/Interno/database"
-	"github.com/Anton17303/Laboratorio-6/Interno/handlers"
+	"github.com/JAAE17/Proyecto-backend1/Interno/database"
+	"github.com/Anton17303/Proyecto-backend1/Interno/handlers"
 )
 
 func main() {

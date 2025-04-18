@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Anton17303/Laboratorio-6/Interno/Modelo"
+	"github.com/JAAE17/Proyecto-backend1/Interno/Modelo"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

@@ -1,4 +1,4 @@
-module github.com/Anton17303/Laboratorio-6
+module github.com/JAAE17/Proyecto-backend1
 
 go 1.21
 
