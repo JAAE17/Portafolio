@@ -78,7 +78,7 @@ Enero 2019 – Octubre 2020
 - Lenguajes: Python, Java, Kotlin
 - Bases de datos: SQL (Azure, Access)
 - BI y análisis: Power BI, Excel
-- Desarrollo móvil: Flutter
+- Desarrollo móvil: React Native
 
 ---
 
