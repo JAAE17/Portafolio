@@ -1,0 +1,21 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.pad {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 280px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background: linear-gradient(145deg, #ffb6c1, #ffc0cb);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+    gap: 5px;
+}
